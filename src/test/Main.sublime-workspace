@@ -1,0 +1,394 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"automate_ajou",
+				"automate_ajouter_transition"
+			],
+			[
+				"autom",
+				"automate_ajouter_transition"
+			],
+			[
+				"auto",
+				"automate_ajouter_transition"
+			],
+			[
+				"atuto",
+				"automate_epsilon"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"dbConne",
+				"dbConnect_user"
+			],
+			[
+				"if",
+				"if-exists"
+			],
+			[
+				"capa",
+				"capacite_kerosene_litre"
+			],
+			[
+				"fro",
+				"FROM"
+			],
+			[
+				"prenom",
+				"prenom_pilote"
+			],
+			[
+				"typ",
+				"type_avion"
+			],
+			[
+				"nombre",
+				"nombre_aeroport_exist"
+			],
+			[
+				"sa",
+				"salaire_co_pilote"
+			],
+			[
+				"AUTO",
+				"AUTO_INCREMENT"
+			],
+			[
+				"arri",
+				"arrivee_lieu"
+			],
+			[
+				"depart",
+				"depart_lieu"
+			],
+			[
+				"arr",
+				"arrivee_lieu"
+			],
+			[
+				"numero",
+				"numero_passeport"
+			],
+			[
+				"com",
+				"compagnie_aerienne"
+			],
+			[
+				"id",
+				"id_vol"
+			],
+			[
+				"max",
+				"max2"
+			],
+			[
+				"ma",
+				"max1"
+			],
+			[
+				"tab",
+				"tab1"
+			],
+			[
+				"nb",
+				"nbjoueur"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/versionDDBParser_MaJ/DDBParser/src/reduction/DDBReduit.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/sprojet/Projet/src/construction/DDBParser.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/sprojet/Binary-Decision-Diagram/Makefile",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/versionDDBParser_MaJ/DDBParser/src/Makefile",
+		"/C/Users/hp/eclipse-workspace/DDBParser/doc/stylesheet.css",
+		"/C/Users/hp/eclipse-workspace/DDBParser/src/datastructures/arbres/Feuille.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/DDBParser/src/datastructures/fonctions/Expression.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/Reduction.h",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/liensZoomTD4_au_14_05_2021.TXT",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/DDBParser/src/datastructures/fonctions/Fonction.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/DDBParser/src/construction/DDBParser.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN606/revision_CC1",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/Reference.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/OperateurOU.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/OperateurNON.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/OperateurET.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/Operateur.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/Fonction.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/Expression.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/fonctions/Constante.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/arbres/Feuille.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/arbres/Sommet.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/arbres/Racine.java",
+		"/C/Users/hp/Downloads/DDBParser/src/datastructures/arbres/Noeud.java",
+		"/C/Users/hp/Downloads/DDBParser/src/construction/InvalidExpressionException.java",
+		"/C/Users/hp/Downloads/DDBParser/src/construction/DDBParser.java",
+		"/C/Users/hp/Downloads/DDBParser/src/test/Main.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/projet_21805123/src/attaque.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/projet_21805123/src/chiffrement.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/projet_21805123/src/dechiffrement.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/projet_21805123/src/main.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_21805123.zip/src/dechiffrement.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_21805123.zip/src/main.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_21805123.zip/src/chiffrement.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_21805123.zip/src/attaque.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_21805123.zip/README.md",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/src/chiffrement.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/src/main.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/README.md",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/Makefile",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/inc/chiffrement.h",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/src/temps.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/src/attaque.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/21_04_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/17_03_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/14_04_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/10_03_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/03_03_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/07_04_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/preparation_oral_big_data.TXT",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/ORAL_TALK.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/31_03_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/24_03_2021.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/Reduction.java",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/ANGLAIS/why_english",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/inc/attaque.h",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/inc/temps.h",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/inc/dechiffrement.h",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/dm/DMCrypto-main/DMCrypto-main/src/dechiffrement.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/PROJET/primalite/Makefile",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_DMCrypto-main.zip/DMCrypto-main/src/algo.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_DMCrypto-main.zip/DMCrypto-main/src/temps.c",
+		"/C/Users/hp/AppData/Local/Temp/Temp1_DMCrypto-main.zip/DMCrypto-main/src/main.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/PROJET/primalite/app/src/strassen.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/PROJET/primalite/app/test/test.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/PROJET/primalite/app/src/primalite.c",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/programmation/Reduction",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN603/Enregistrements Zoom des TDs-20210326/liensZoom.txt",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/README.md",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN608/reductionpseudocode",
+		"/C/Users/hp/Documents/SEMESTRE6/Semestre_6/IN606/PRISE_de_NOTE_TP6_CAS.txt",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/Sommet.hpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/Sommet.cpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/ArbreB.hpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/ArbreB.cpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/Huffman.hpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/Huffman.cpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/mainProjet.cpp",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/Makefile",
+		"/C/Users/hp/Downloads/ProjetCPP_complet_Mise à jour/ProjeetCPP_3e_Partie/README.md",
+		"/C/Users/hp/Downloads/petite_explication_question_1",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD1/cstring.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD1/main_td1.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD1/cstring.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD4/misc.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/vector_list.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/carre.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/colored_point.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/colored_point.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/form.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/form.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/group.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/group.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/point.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/point.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD4/main_4.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/rectangle.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/rectangle.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/triangle.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/triangle.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Geometry/carre.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Listes/cfile.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Listes/clist.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD3 - Listes/cpile.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/vector_list.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/Lisp 2/rever",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/vecteur.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/vecteur.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/point.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/Correction (Mise à jour le 10 décembre)-20201217/TD2/point.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie1/README.md",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/Huffman.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/Huffman.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/mainProjet.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/lisp/TD3_commente.lisp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/Makefile",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie2/test/README.md",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/Sommet.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjeetCPP_3e_Partie/ProjeetCPP_3e_Partie/ArbreB.hpp",
+		"/C/Users/hp/Documents/SEMESTRE5/Compilation/GITLAB_TD/princy-rasoloarivony/lab4/dragon-tiger/src/irgen/irgen.hh",
+		"/C/Users/hp/Documents/SEMESTRE5/Compilation/GITLAB_TD/princy-rasoloarivony/lab4/dragon-tiger/src/irgen/irgen-visitor.cc",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie2/test/contexte.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie2/test/contexte.h",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie2/test/arbreframe.cpp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/note_projet_huffman/projetCPP/ProjetCPP-partie2/test/arbreframe.h",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/lisp/td2.lisp",
+		"/C/Users/hp/Documents/SEMESTRE5/tp_avancé/lisp/td1.lisp",
+		"/C/Users/hp/Downloads/TD3_commente.lisp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Main.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
