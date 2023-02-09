@@ -1,6 +1,6 @@
 
 Réalisation d'un diagramme de décisions binaire programmé en java.
-le programme prend en entrée une formule booleenne et Retoune son diagramme de décision binaire.
+le programme prend en entrée une formule booléenne et Retoune son diagramme de décision binaire.
 un diagramme de décision binaire est  un graphe orienté et DAG ,Les feuilles de ce graphe contiennent une valeur booléenne
 qui sera un noeud de décision, les noeuds qui ne sont pas des feuilles sont les variables de la formules, si une variable n'apparait pas 
 dans le DDB, alors cette variable n'a pas d'impacte sur la "décision de la formule", les arcs représentent la décision de chaque variable du noeud
